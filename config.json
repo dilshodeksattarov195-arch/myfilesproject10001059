@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceprocess",
+        "uuid": 10523283,
+        "checksum": "as169j"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
